@@ -5,8 +5,8 @@
           fetch="https://github.com/Prashant-1695" />
 
   <!-- Trees -->
-        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="Prashant-1695" revision="Derphies"/>
+        <project path="device/xiaomi/lavender" name="android_xiaomi_lavender" remote="Prashant-1695" revision="eleven"/>
         <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender" remote="Prashant-1695" revision="eas" />
-        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-7" remote="Prashant-1695" revision="11" />
+        <project path="vendor/xiaomi/lavender" name="android_vendor_lavender" remote="Prashant-1695" revision="eleven-4.4" />
         
 </manifest>
