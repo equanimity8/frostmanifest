@@ -5,8 +5,10 @@
           fetch="https://github.com/Prashant-1695" />
 
   <!-- Trees -->
-        <project path="device/xiaomi/lavender" name="android_xiaomi_lavender" remote="Prashant-1695" revision="havoc"/>
-        <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender" remote="Prashant-1695" revision="eas" />
-        <project path="vendor/xiaomi/lavender" name="android_vendor_lavender" remote="Prashant-1695" revision="eleven-4.4" />
+        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="equanimity8" revision="11 "/>
+        <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="equanimity8" revision="oldcam-eas"/>
+        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="equanimity8" revision="11" />
+        <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="equanimity8" revision="11"/>
+        <project path="vendor/xiaomi/lavender/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="equanimity8" revision="11"/>
         
 </manifest>
